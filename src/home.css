@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    font-family: "Quicksand";
+    color: #333;
+  }
+
+  .content {
+    max-width: none;
+    margin: 40px auto;
+    padding: 20px;
+    height: 80vh;
+  }
+
+
+
+  .home {
+    max-width: inherit;
+    margin: 0 auto;
+    padding: 5px;
+    text-align: center;
+    background-color: grey;
+    border: 1px solid black;
+    border-radius: 5px;
+    height:95vh;
+  }
+
+  .home label {
+    text-align: left;
+    display: block;
+  }
+  .home h2 {
+    font-size: 50px;
+    color: black;
+    margin-bottom: 30px;
+  }
+  .home input, .home textarea, .home select {
+    
+    width: auto;
+    padding: 6px 10px;
+    margin: 10px 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-sizing: border-box;
+    display: inline-block;
+  }
+  
+  .home button {
+    background: #72696c;
+    color: #1f1c1c;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 0 auto;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: right;
+  }
+
+  .pricepay{
+    border: 1px solid black;
+  }
+
+  .total {
+    width: auto;
+    padding: 6px 10px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    display: inline-block;
+  }
+
+
+  .payB{
+    width: auto;
+    padding: 6px 10px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    display: inline-block;
+  }
+
+ 
+
+
+  .allTickets {
+    width: auto;
+    padding: 6px 10px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    display: inline-block;
+  }
+  .allTprice {
+    width: auto;
+    padding: 6px 10px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    display: inline-block;
+  }
+
+  .disclaimer{
+    box-sizing: border-box;
+    display: inline-block;
+    max-width: inherit;
+    border: 1px 1px black;
+  }
+
+
+  .payment input, .payment textarea, .payment select {
+    
+    width: auto;
+    padding: 6px 10px;
+    margin: 10px 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-sizing: border-box;
+    display: inline-block;
+  }

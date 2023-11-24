@@ -1,0 +1,54 @@
+.Ticket-list {
+    width: auto;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 2px;
+  }
+
+  .Tlist p {
+    width: auto;
+    padding: 3px 3px;
+    margin: 10px 15px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: inline-block;
+  }
+
+
+  .nsname {
+    width: 15vw;
+    padding: 2px 2px;
+    margin: 3px 15px;
+    box-sizing: border-box;
+    display: inline-block;
+  }
+
+  .tprice {
+    width: 20vw;
+    padding: 2px 2px;
+    margin: 3px 15;
+    box-sizing: border-box;
+    display: inline-block;
+    text-align: center;
+  }
+
+  .delete {
+    width:15vw;
+    padding: 2px 2px;
+    margin: 3px 0;
+    background-color: blanchedalmond;
+    border: 1px 1px red;
+    box-sizing: border-box;
+    display: inline-block;
+  }
+
+  .delCol {
+    width:15vw;
+    padding: 2px 2px;
+    margin: 3px 0;
+    box-sizing: border-box;
+    display: inline-block;
+  }
+
+  
